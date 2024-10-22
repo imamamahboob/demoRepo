@@ -1,0 +1,6 @@
+ppr pattern:
+set theory
+state chart machine
+hoare logic
+z schema
+ocl constraints
